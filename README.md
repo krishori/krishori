@@ -1,4 +1,23 @@
-## Hi there 👋
+## # Krishori
+
+Krishori is an online fashion store offering trendy and affordable clothing for women, men, and kids. Explore ethnic wear, kurtis, suits, western wear, casual outfits, and the latest fashion trends.
+
+🌐 Website: https://krishori.com
+
+## Collections
+
+- Women's Ethnic Wear
+- Short Kurtis
+- Suits & Festive Wear
+- Men's Fashion
+- Kids Clothing
+- Casual Wear
+
+## About Krishori
+
+Krishori focuses on quality, comfort, and style, bringing fashionable apparel for every occasion at affordable prices.
+
+Visit: https://krishori.com
 
 <!--
 **krishori/krishori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
